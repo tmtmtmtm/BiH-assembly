@@ -45,5 +45,5 @@ def scrape_person(name, url)
   ScraperWiki.save_sqlite(%i(id term), data)
 end
 
-ScraperWiki.sqliteexecute('DELETE FROM data') rescue nil
+ScraperWiki.sqliteexecute('DROP TABLE data') rescue nil
 scrape_list('https://www.parlament.ba/sadrzaj/poslanici/p/Archive.aspx?m=3')
