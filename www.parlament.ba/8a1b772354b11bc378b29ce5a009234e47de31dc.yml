@@ -18,14 +18,14 @@ response:
     message: Found
   headers:
     Date:
-    - Fri, 04 Jan 2019 19:49:12 GMT
+    - Sat, 05 Jan 2019 06:06:10 GMT
     Content-Type:
     - text/html; charset=utf-8
     Connection:
     - keep-alive
     Set-Cookie:
-    - __cfduid=d6cad148ba1774a00e2a1694d5ae4c9501546631351; expires=Sat, 04-Jan-20
-      19:49:11 GMT; path=/; domain=.parlament.ba; HttpOnly
+    - __cfduid=d6df8baabe75fc2062040b6f9c4e734fb1546668369; expires=Sun, 05-Jan-20
+      06:06:09 GMT; path=/; domain=.parlament.ba; HttpOnly
     Location:
     - "/Error?aspxerrorpath=/sadrzaj/poslanici/p/Archive.aspx"
     X-Powered-By:
@@ -35,10 +35,10 @@ response:
     Server:
     - cloudflare
     Cf-Ray:
-    - 49403a1b28ce6dea-SJC
+    - 4943c1dcdb386e3e-SJC
     Content-Length:
     - '171'
   body:
     encoding: UTF-8
   http_version: 
-recorded_at: Fri, 04 Jan 2019 19:49:12 GMT
+recorded_at: Sat, 05 Jan 2019 06:06:10 GMT
