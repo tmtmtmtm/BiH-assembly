@@ -18,15 +18,15 @@ response:
     message: OK
   headers:
     Date:
-    - Sat, 02 Feb 2019 12:37:56 GMT
+    - Sun, 03 Feb 2019 00:54:48 GMT
     Content-Type:
     - text/html; charset=utf-8
     Connection:
     - keep-alive
     Set-Cookie:
-    - ASP.NET_SessionId=ygokjvyy1qjvyid4bxmmjojh; path=/; HttpOnly
-    - __cfduid=d255fc1314afa99bdc846f0e9d32622371549111076; expires=Sun, 02-Feb-20
-      12:37:56 GMT; path=/; domain=.parlament.ba; HttpOnly
+    - ASP.NET_SessionId=im5zut4jk2kx1gmsfnf2ofm3; path=/; HttpOnly
+    - __cfduid=d3aa6d8c28d1c438ff6c06e7be3744dee1549155287; expires=Mon, 03-Feb-20
+      00:54:47 GMT; path=/; domain=.parlament.ba; HttpOnly
     Cache-Control:
     - private
     Vary:
@@ -42,10 +42,10 @@ response:
     Server:
     - cloudflare
     Cf-Ray:
-    - 4a2cb641291c92f4-SJC
+    - 4a30eda3fdbf93f6-SJC
     Content-Length:
-    - '6396'
+    - '6397'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 02 Feb 2019 12:37:56 GMT
+recorded_at: Sun, 03 Feb 2019 00:54:48 GMT
